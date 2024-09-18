@@ -1,8 +1,8 @@
 <?php
-    $servidor = "sql308.byethost7.com";
-    $nombreDB = "b7_37207049_Hospital";
-    $usuario = "b7_37207049";
-    $contrasenia = "22601890aB@";
+    $servidor = "127.0.0.1";
+    $nombreDB = "Hospital";
+    $usuario = "root";
+    $contrasenia = "";
 
     try{
         //Crear la coneccion PDO
