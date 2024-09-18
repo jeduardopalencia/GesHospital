@@ -11,5 +11,5 @@ class roles extends Model
      protected $table = 'roles';
 
      // Especifica los campos que se pueden rellenar
-     protected $fillable = ['rol_nombre','rol_nombre'];
+     protected $fillable = ['rol_nombre','rol_descripcion'];
 }
